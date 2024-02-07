@@ -15,7 +15,7 @@ overflow-y: scroll; /* once it fills up, it adds a scroll bar rather than it get
 
 .header { /* This is a custom class, we can name it whatever we want*/
     color: #fff;
-    background-color: #333;
+    background-color: #333333;
     padding: 10px;
     border-radius: 5px;
     text-align: center;

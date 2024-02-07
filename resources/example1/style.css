@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'arial'; /* default font for all h1s */
+    font-size: 40px;
+    color: blue;
+}
+
+.header {
+    font-size: 20px;
+    color: red;
+    /* This class will still have the arial font though because we made it the default, unless we change it 
+    font-family: 'Times New Roman';
+    like that ^
+    */
+
+}
