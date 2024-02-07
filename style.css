@@ -1,0 +1,22 @@
+body {
+    font-family: arial;
+}
+
+/* This is a CSS Comment 
+CSS stands for Cascading Style Sheets*/
+
+/* Below is giving an id style */
+
+#clicked {
+height: 150px;
+width: 180px;
+overflow-y: scroll; /* once it fills up, it adds a scroll bar rather than it getting bigger */
+}
+
+.header { /* This is a custom class, we can name it whatever we want*/
+    color: #fff;
+    background-color: #333;
+    padding: 10px;
+    border-radius: 5px;
+    text-align: center;
+} /* any element that is given this class will have these properties */
