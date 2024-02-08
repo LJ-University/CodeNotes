@@ -7,7 +7,7 @@ What will I teach you?
 
 I will teach you how to build static websites that look nice, using HTML, CSS, and JS. This course will have around 3 main parts to compelete on your own. 
 
-In the first part we will focus on just HTML and CSS
+In the first part we will focus on just HTML and CSS.
 
 In the second part we will focus on multiple pages, managing our HTML in coordination with CSS, and file locations.
 
@@ -15,7 +15,7 @@ In the third part we will focus on JS and manipulating HTML and CSS using JS. JS
 
 The third and second part will be found in the notes folder, if you get confused or lost text me or message me on discord.
 
-After you finish the first, second, and third part, we will focus on your individual skills, and I personally will Teach you UI design.
+After you finish the first, second, and third part, we will focus on your individual skills, and I personally will teach you UI and UX design.
 
 Phone: 630-310-2681
 <br> Discord: RaidLucky
@@ -24,8 +24,10 @@ Phone: 630-310-2681
 
 THIS IS IS SUPER IMPORTANT
 
-right click it on the sidebar and click open preview
-<br> or on your keyboard hold: ctrl + shift + v
+You should be coding side by side with these notes
+
+Right click it on the sidebar and click open preview
+<br> Or on your keyboard hold: ctrl + shift + v
 <br> This will format the info
 
 ## Setup
@@ -86,8 +88,6 @@ You can make a lot of errors in HTML; however, It will always run, because HTML 
 - `<!DOCTYPE html>` In HTML this is nessecary for the browser to interpret the website, although most browsers will work without it. It is still nessecary.
 
 # CSS Notes
-
-Haven't completed CSS notes yet as of 2/7/2024
 
 First you have to connect your css file to the html file
 in between your head tags
@@ -221,7 +221,8 @@ The display property is how we position elements, and organzize them. Displays c
 
 There are more Display values, but these are the main ones you'll use. Your typical displays are block and inline-block. The most commonly used one however is flex, because you can position elements to be completely centered within it. Grid is used to make grids obviously, and tables make tables. 
 
-Here is a good [Demo](https://developer.mozilla.org/en-US/docs/Web/CSS/display)
+**Here is a good website [Demo](https://developer.mozilla.org/en-US/docs/Web/CSS/display)**
+<br> **[Video](https://www.youtube.com/watch?v=Qf-wVa9y9V4) on Display property**
 
 The best way to find out how each works and the differences between them, is to code with them. Try using them on your own. 
 
